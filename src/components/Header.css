@@ -1,0 +1,14 @@
+.header {
+  height: 500px;
+  background-color: #001033;
+  line-height: 0;
+  color: white;
+}
+.headerTxt {
+  margin-top: 40px;
+}
+.me {
+  height: 200px;
+  border-radius: 50%;
+  margin-top: 100px;
+}
